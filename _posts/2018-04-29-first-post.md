@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post!
-image: /img/hello_world.jpeg
+title: Getting ready to travel!
+image: /img/airport.png
 ---
 
-This is my first post, how exciting!
+We leave very soon!
