@@ -6,7 +6,7 @@ subtitle: Going to Italy and Coming Home
 
 ## FLORENCE
 
-:airplane: Fly out of Chicago 
+Fly out of Chicago 
 
 Connect in Paris
 
@@ -15,14 +15,14 @@ Arrive in Florence
 Stay in Florence for ~2 days (2-1/2 days)
 
 ## ROME
-:tram: Take train to Rome from Florence
+Take train to Rome from Florence
 
 Arrive in Rome
 
 Stay in Rome for 3 1/2 days
 
 ## HOME
-:airplane: Fly out of Rome
+Fly out of Rome
 
 Connect in New York City (JFK)
 
