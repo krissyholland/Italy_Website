@@ -24,19 +24,25 @@ After dinner, let's head back to the hotel and watch the Game of Thrones finale!
 ## DAY 2
 
 10am - Climb the Duomo! Then visit the rest of the cathedral, bell tower, crypt, baptistry, etc
+![Duomo Climb](/img/duomo-climb.jpg)
 
 12pm - Academia
+![David](/img/david.jpg)
 
 2pm - Ponte Veccio
+![Ponte Veccio](/img/ponte-veccio.jpg)
 
 3:45pm - Florence Library, to meet up with our tour guide for the Tuscany Wine Tour
 
 4-8pm - Sunset Tuscany Wine Tour
+![Greve](/img/greve-in-chianti.jpg)
 
 9pm - Dinner
 
 ## DAY 3
 
 9am - Uffizi Museum
+![Uffizi](/img/Uffizi.jpg)
 
 12pm - Arrive at the Firenze S.M.N Train Station
+![Train Station](/img/florencec-smn.jpg)
