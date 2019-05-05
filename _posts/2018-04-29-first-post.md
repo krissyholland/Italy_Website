@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting ready to travel!
-image: /img/airport.png
+image: /img/hello_world.jpeg
 ---
 
 We leave very soon!
