@@ -12,7 +12,7 @@ After freshening up at the hotel, take a leisurely stroll down the Arno River to
 ![Gelateria dei Neri](/img/gelato.jpg)
 
 Once we have gelato, let's go to the Piazzale Michaelangelo!
-![Piazzale Michaelangelo](/img/sunset-piazzle-michaelangelo.jpg)
+![Piazzale Michaelangelo](/img/sunset-piazzle-michelangelo.jpg)
 
 
 After all this walking, we'll be ready for our steak dinner at Antica Trattoria da Tito.
