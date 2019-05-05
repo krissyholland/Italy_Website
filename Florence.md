@@ -45,4 +45,4 @@ After dinner, let's head back to the hotel and watch the Game of Thrones finale!
 ![Uffizi](/img/Uffizi.jpg)
 
 12pm - Arrive at the Firenze S.M.N Train Station
-![Train Station](/img/florencec-smn.jpg)
+![Train Station](/img/florence-smn.jpg)
